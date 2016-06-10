@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doodle-case-study.iml" filepath="$PROJECT_DIR$/.idea/modules/doodle-case-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doodle-case-study-build.iml" filepath="$PROJECT_DIR$/.idea/modules/doodle-case-study-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doodle-case-study-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/doodle-case-study-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doodleJS.iml" filepath="$PROJECT_DIR$/.idea/modules/doodleJS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doodleJS-build.iml" filepath="$PROJECT_DIR$/.idea/modules/doodleJS-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doodleJVM.iml" filepath="$PROJECT_DIR$/.idea/modules/doodleJVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doodleJVM-build.iml" filepath="$PROJECT_DIR$/.idea/modules/doodleJVM-build.iml" />
+    </modules>
+  </component>
+</project>
